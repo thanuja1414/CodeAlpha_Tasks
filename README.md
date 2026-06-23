@@ -33,12 +33,12 @@ The objective of this project is to demonstrate the use of Python programming co
 
 Welcome to Hangman
 
-Word: _ _ _ _ _ _
+Word: _ _ _ _ _ _ <br>
 Attempts Left: 6
 
 Enter a letter: p
 
-Word: p _ _ _ _ _
+Word: p _ _ _ _ _ <br>
 Attempts Left: 6
 
 ## Learning Outcomes

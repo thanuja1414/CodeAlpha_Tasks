@@ -1,8 +1,8 @@
 stockPrices={
-    "AAPL": 180,
-    "TSLA": 250,
-    "GOOG": 140,
-    "MSFT": 350
+    "AAPLE": 180,
+    "TESLA": 250,
+    "GOOGLE": 140,
+    "MICROSOFT": 350
 }
 
 total=0
